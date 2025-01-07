@@ -1,0 +1,4 @@
+# Ignore AppData folders
+AppData/
+AppData/Local/Application Data/
+AppData/Local/ElevatedDiagnostics/
